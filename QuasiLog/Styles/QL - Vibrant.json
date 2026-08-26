@@ -1,0 +1,23 @@
+{
+    "Name": "QL - Vibrant",
+    "BaseTextColor": "#37AA13",
+    "TurnPrefixColor": "#808080",
+    "PlayerNameColor": "#29D829",
+    "EnemyNameColor": "#DC2A2A",
+    "ToHitPrefixColor": "#74C672",
+    "RollHitColor": "auto",
+    "RollMissColor": "auto",
+    "RollDodgeColor": "auto",
+    "DamageTextColor": "#FFDE00",
+    "KillTextColor": "#FFDE00",
+    "WeaponNameColor": "#3CAA2D",
+    "AmmoTextColor": "#74C672",
+    "ConsequenceTextColor": "#3EAF2F",
+    "DamageFloatieColor": "auto",
+    "WoundFloatieColor": "#B5403E",
+    "ConditionFloatieColor": "#FFD24A",
+    "StatusFloatieColor": "#FC8324",
+    "PlayerTauntColor": "#32D234",
+    "EnemyTauntColor": "#06BCF8",
+    "AllyTauntColor": "#FF9A00"
+}

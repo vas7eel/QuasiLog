@@ -1,0 +1,23 @@
+{
+    "Name": "Default",
+    "BaseTextColor": "#7FA17D",
+    "TurnPrefixColor": "#496653",
+    "PlayerNameColor": "#99E699",
+    "EnemyNameColor": "#E67373",
+    "ToHitPrefixColor": "#9ED399",
+    "RollHitColor": "#9FD897",
+    "RollMissColor": "#738F71",
+    "RollDodgeColor": "auto",
+    "DamageTextColor": "#FBE343",
+    "KillTextColor": "#CA1414",
+    "WeaponNameColor": "#D6EAA4",
+    "AmmoTextColor": "auto",
+    "ConsequenceTextColor": "#81B57A",
+    "DamageFloatieColor": "#FF0042",
+    "WoundFloatieColor": "#B5403E",
+    "ConditionFloatieColor": "#FFD24A",
+    "StatusFloatieColor": "#FC8324",
+    "PlayerTauntColor": "#32D234",
+    "EnemyTauntColor": "#31CDCA",
+    "AllyTauntColor": "#F2A93C"
+}

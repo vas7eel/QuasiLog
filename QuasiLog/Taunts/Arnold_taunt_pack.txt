@@ -1,0 +1,102 @@
+# QuasiLog taunt pack — Arnold Schwarzenegger edition. One taunt per line.
+# tokens: {me} {target} {damage} {wound}
+#   laststand  - attacker, killing blow, attacker's own HP <= near-death threshold
+#   kill       - attacker, killing blow (any HP)
+#   amputation - attacker, hit caused amputation
+#   bighit     - attacker, hit landed, damage >= big-hit threshold, victim survives
+#   missedattack - attacker, attack missed
+#   ondeath    - victim, this hit killed them
+#   missedme   - victim, attack against them missed
+#   tookbighit - victim, survived, damage >= big-hit threshold
+#   neardeath  - victim, survived, own HP <= near-death threshold
+
+[laststand]
+I eat Green Berets for breakfast. And right now, I'm very hungry!
+To crush your enemies, see them driven before you, and to hear the lamentation of their women.
+You're a choir boy compared to me!
+Of course, I'm a terminator.
+
+[kill]
+Stick around.
+Consider that a divorce.
+Hasta la vista, baby.
+{target}. You are terminated.
+Remember when I said I'd kill you last, {target}? ...I lied.
+You're luggage, {target}.
+I did nothing. The pavement was his enemy.
+I hope you leave enough room for my fist because I’m going to ram it into your stomach and break your goddamn spine!
+Time for you to chill out.
+The iceman cometh.
+To be, or not to be... Not to be.
+
+[amputation]
+See you at the party, {target}!
+You're one ugly motherfucker, {target}.
+That arm's not coming back, {target}.
+Lose the limb, lose the fight.
+You won't need that where you're going.
+A piece of you stays here with me.
+Let off some steam {target}
+
+[bighit]
+Get to the chopper!
+Let off some steam, {target}.
+Allow me to break the ice.
+{target}, here is Subzero! Now, plain zero!
+You're fired, {target}!
+No sequel for you.
+Allow me to break the ice.
+{target}! You son of a bitch!
+Well, that hit the spot.
+Oh excuse me, I forgot to introduce myself. My name is {me}. I love your gear.
+
+[missedattack]
+All right, everyone! Chill!
+Relax — that was just a warning shot.
+Next one's not a warning shot.
+You were lucky. That won't last.
+You're a liar. And a lousy shot.
+I missed? Pathetic.
+Try again, tough guy.
+What the hell are you?
+You, are not you, you're me.
+
+[missedme]
+You missed. I never miss.
+Is that the best you can do?
+Missed. Story of your life, {target}.
+Nice try, choir boy.
+Who is your daddy, and what does he do?
+Get down!
+Talk to the hand.
+Crom laughs at your four winds.
+You call that an attack?
+I'm right here, what are you waiting for! Come on, do it!
+You should not drink and shoot.
+What's the matter, they got you pushing too many pencils?
+
+[ondeath]
+I know now why you cry, but it's something I can never do.
+Tell them I went down swinging.
+This isn't over. Not really.
+You call that a kill, {target}?
+Enjoy it. Won't happen twice.
+I'll be back.
+Grant me revenge! And if you do not listen, then to hell with you!
+
+
+[tookbighit]
+It's not a tumor!
+No problemo.
+I'm afraid that my condition has left me cold to your pleas.
+Big mistake, {target}.
+I'll be back.
+It's showtime.
+You’re a funny guy, {target}, I like you. That’s why I’m going to kill you last.
+
+
+[neardeath]
+If it bleeds, we can kill it.
+Pathetic, {target}.
+You're not a man. You're a baby.
+You're a coward, {target}.

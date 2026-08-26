@@ -1,0 +1,23 @@
+{
+    "Name": "QL - Mono",
+    "BaseTextColor": "#C1C1C1",
+    "TurnPrefixColor": "#747474",
+    "PlayerNameColor": "#FFFFFF",
+    "EnemyNameColor": "#FFFFFF",
+    "ToHitPrefixColor": "#FFFFFF",
+    "RollHitColor": "auto",
+    "RollMissColor": "#818181",
+    "RollDodgeColor": "auto",
+    "DamageTextColor": "#FFFFFF",
+    "KillTextColor": "#FFFFFF",
+    "WeaponNameColor": "#C1C1C1",
+    "AmmoTextColor": "#CFCFCF",
+    "ConsequenceTextColor": "#AAAAAA",
+    "DamageFloatieColor": "#FFFFFF",
+    "WoundFloatieColor": "#FFFFFF",
+    "ConditionFloatieColor": "#B8B8B8",
+    "StatusFloatieColor": "#7D7D7D",
+    "PlayerTauntColor": "#FFFFFF",
+    "EnemyTauntColor": "#AFAFAF",
+    "AllyTauntColor": "#FFFFFF"
+}

@@ -1,0 +1,13 @@
+{
+  "UniqueModName": "Vas7eel_QuasiLog",
+  "Assemblies": [
+    "QuasiLog.dll"
+  ],
+  "Dependencies": [],
+  "SteamTags": [
+    "Quality of Life",
+    "UI",
+    "Utility",
+    "1.0.2"
+  ]
+}

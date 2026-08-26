@@ -1,0 +1,92 @@
+# QuasiLog taunt pack — loyal squadmate edition. One taunt per line.
+# tokens: {me} {target} {damage} {wound}
+#   laststand  - attacker, killing blow, attacker's own HP <= near-death threshold
+#   kill       - attacker, killing blow (any HP)
+#   amputation - attacker, hit caused amputation
+#   bighit     - attacker, hit landed, damage >= big-hit threshold, victim survives
+#   missedattack - attacker, hit missed
+#   ondeath    - victim, this hit killed them
+#   missedme   - victim, attack against them missed
+#   tookbighit - victim, survived, damage >= big-hit threshold
+#   neardeath  - victim, survived, own HP <= near-death threshold
+
+[laststand]
+Not going down alone, {target}!
+If I fall, you're falling first!
+This ends here, one way or another!
+Whatever it takes!
+I've got nothing left to lose!
+Last stand, {target}!
+
+[kill]
+Got 'em!
+{target} down!
+That's one less problem.
+Clear!
+Tango eliminated.
+Covering you — that one's done.
+Scratch one, {target}.
+Nice and clean.
+Threat neutralized.
+Watch your six, I got this one.
+
+[amputation]
+That's gonna cost you, {target}!
+Took the arm — should slow it down.
+Limb's off. Advantage ours.
+Won't be swinging that again.
+Cut clean, {target}.
+That'll even the odds.
+
+[bighit]
+Hell yeah, felt that one!
+{damage}! Keep pushing!
+Big hit, {target}!
+That one's gonna hurt.
+Right on the money!
+Solid connection!
+Straight through, {target}.
+Took a chunk out of that one.
+
+[missedattack]
+Damn it, missed!
+Hold still, {target}!
+Not my best shot.
+Next one's got your name on it.
+Just warming up.
+Almost, {target}.
+Reloading — cover me!
+
+[missedme]
+Missed me — still up!
+Ha, too slow!
+Nice try, {target}.
+Still in this fight!
+Whew — that was close.
+Try harder next time.
+Not today, {target}.
+
+[ondeath]
+Tell them I— *cough*
+Go on without me!
+It was an honor!
+Get to safety!
+Don't let this be for nothing!
+Avenge me, {target}!
+I held the line.
+
+[tookbighit]
+That stung, {target}!
+I'm still up!
+Gonna feel that later.
+Not enough to stop me!
+Barely felt it — barely.
+Tough one, {target}.
+
+[neardeath]
+Still standing, still fighting!
+Need a medic over here!
+Not done yet!
+Hanging in there, {target}.
+Running on fumes.
+Don't count me out!

@@ -1,0 +1,23 @@
+{
+    "Name": "QL - Muted",
+    "BaseTextColor": "#79A66D",
+    "TurnPrefixColor": "#808080",
+    "PlayerNameColor": "auto",
+    "EnemyNameColor": "#E69696",
+    "ToHitPrefixColor": "#A7E1A0",
+    "RollHitColor": "#ACFCA3",
+    "RollMissColor": "#6E9867",
+    "RollDodgeColor": "#AAEAA1",
+    "DamageTextColor": "#FCEEAB",
+    "KillTextColor": "#FCEEAB",
+    "WeaponNameColor": "auto",
+    "AmmoTextColor": "#AAD8AA",
+    "ConsequenceTextColor": "auto",
+    "DamageFloatieColor": "#D82941",
+    "WoundFloatieColor": "#B5403E",
+    "ConditionFloatieColor": "#FFD44A",
+    "StatusFloatieColor": "#FF7B4F",
+    "PlayerTauntColor": "#30FF30",
+    "EnemyTauntColor": "#32D8D5",
+    "AllyTauntColor": "#EAA931"
+}

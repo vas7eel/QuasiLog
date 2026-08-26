@@ -1,0 +1,227 @@
+# QuasiLog taunt pack — 80s/90s action-player edition. One taunt per line.
+# tokens: {me} {target} {damage} {wound}
+#   laststand  - attacker, killing blow, attacker's own HP <= near-death threshold
+#   kill       - attacker, killing blow (any HP)
+#   amputation - attacker, hit caused amputation
+#   bighit     - attacker, hit landed, damage >= big-hit threshold, victim survives
+#   missedattack - attacker, hit missed
+#   ondeath    - victim, this hit killed them
+#   missedme   - victim, attack against them missed
+#   tookbighit - victim, survived, damage >= big-hit threshold
+#   neardeath  - victim, survived, own HP <= near-death threshold
+
+[laststand]
+See you in hell.
+Worth it.
+Say hi to the devil for me.
+We're both done now.
+Last round... counted.
+Say hello to my little friend!
+I want blood!
+If he dies, he dies.
+If I go, {target} goes first!
+Take a good look — it's the last thing you'll see!
+No retreat. No mercy. No exceptions!
+You wanted a war. Now you've got one!
+I'll see you in hell, {target}!
+Kill me? Fine. But you're coming with me!
+Last breath, best breath — watch!
+Neither of us walks away from this!
+You should've run when you had the chance, {target}!
+Everybody dies tonight. Starting with you!
+You bleed me out, I bleed you dry!
+I'll drag you to hell myself!
+One of us ends here. Guess who.
+
+[kill]
+Stick around — permanently.
+{target} is terminated.
+I'll be back. You won't.
+Consider that a discharge.
+Game over, {target}.
+Can you fly, {target}?
+Now I have a machine gun. Ho-ho-ho.
+Simon says, die.
+Simon says, bleed!
+You've proven to be a most useful mammal.
+{target} is finished.
+Target eliminated.
+Down goes another.
+One less obstacle.
+Say goodnight, {target}.
+Nothing personal. Just business.
+You were never going to win this.
+Scratch one off the list.
+Contract closed.
+Rest easy — permanently.
+{target}, deceased.
+Next!
+
+[amputation]
+Lose the arm, lose the fight.
+That's not coming back.
+Piece by piece.
+Souvenir for the trip home.
+Hope you weren't attached to that.
+Take the limb!
+Cut it loose!
+It bleeds. Good.
+No more running for you.
+Trophy secured.
+Souvenir for my collection, {target}.
+That's not growing back.
+One piece at a time, {target}.
+Lose the arm, lose the fight.
+You won't be needing that.
+Piece by piece — my favorite part.
+Consider that... detached.
+Hope you weren't attached to that.
+Half of you stays here.
+Something to remember me by.
+That'll leave a stump, {target}.
+Cleaner cut than you deserve.
+Parts is parts.
+That is gonna leave a mark.
+
+[bighit]
+Get to the chopper. Oh wait — you can't.
+{damage} points of 'stay down.'
+That's what I call a warning shot.
+Felt good landing that one.
+Right between the eyes.
+Bitches!
+Feel that, {target}?!
+{damage}! Crush the weak!
+Direct hit!
+You won't survive another.
+That's the sound of losing.
+{damage} points of pain, {target}.
+That's gonna leave a mark — if you live.
+Down you go!
+Big hit for a big mistake.
+Eat shit, {target}!
+That's what {damage} feels like.
+Right on target!
+You're not getting up from that.
+Absorb that, {target}.
+That one's gonna echo.
+Full contact, {target}.
+Impact confirmed.
+Bet that rang your bell.
+Direct hit, no charge.
+Bullseye!
+
+[missedattack]
+Cover's just... reloading.
+Slippery today, huh.
+Next one's got your name on it.
+That one doesn't count.
+Warm-up shot.
+I never think that far ahead.
+Is it cold in here or is it just me?
+Lucky number seven.
+Hold still, you filthy animal!
+Missed. Not for long!
+Next shot won't miss.
+Lucky...
+Almost, {target}. Almost.
+Dodge all you want — I've got time.
+Dance bitch dance!
+Close doesn't save you.
+Enjoy the miss. It's your last one.
+Keep dancing, {target}.
+That won't happen twice.
+Do I have your attention? Good.
+Warm-up round.
+You got lucky. I don't miss twice.
+Next one's got your name on it, {target}.
+Slippery.
+
+[missedme]
+Missed me? Rookie mistake.
+Too slow, {target}.
+Nice try, {target}.
+Ha! Missed me by a mile.
+You call that an attack?
+Not today.
+Swing and a miss, {target}.
+Better luck next time.
+Worst. Shot. Ever.
+
+[ondeath]
+I'll be back...
+I always tell the truth. Even when I lie.
+Tell them I went down fighting.
+This isn't... over, {target}.
+See you in hell!
+Yippee-ki... yay...
+There will be... others.
+You think this ends with me?
+This changes... nothing.
+Somebody else will finish what I started.
+Screw you!
+To die in this shithole? <cough>
+Not... how I saw this going.
+Tell your mom... I said hi.
+Worth it.
+Wasn't personal, {target}. Now it is.
+One down. More coming.
+You'll wish... I stayed dead.
+
+[tookbighit]
+That's gonna leave a mark.
+Is that all you got, {target}?
+I've had worse in training.
+Pain is just data.
+Cute. My turn.
+Argh! {target}!!
+That... hurt.
+You'll pay for that!
+Not enough!
+I feel nothing! ...mostly.
+Cute. Didn't even slow me down.
+That the best you've got, {target}?
+Pain is just noise.
+You'll need to do better than that.
+Is that supposed to hurt?
+That.. Tickled.
+You hit like a sissy.
+Nice try, {target}.
+Barely felt it.
+Careful — that made me angry.
+You've got my attention now.
+Wrong move, {target}.
+Free hit. Won't get another.
+That one counted. Barely.
+I've had worse from friendly fire.
+Keep hitting. See where it gets you.
+
+
+[neardeath]
+Not dead yet.
+I didn't come this far to die here.
+Still breathing. Still fighting.
+You'll have to try harder than that.
+One scratch won't stop me.
+I will not fall!
+Not finished with you!
+Barely scratched!
+Is that the best you can do?
+It's just a flesh wound!
+I've survived worse than you!
+Still standing. Still dangerous.
+You'll have to do better than that, {target}.
+This isn't the end. Not yet.
+Damaged. Not defeated.
+I don't go down that easy.
+Running on spite now.
+You should've finished me when you had the chance.
+Still enough left to finish you.
+Wounded animals bite hardest, {target}.
+Not dead. Just angry.
+One more move, {target} — I dare you.
+I've got plenty of fight left.
+Down to the last, and still deadly.
+You call that damage?
+It'll take more than that to end me.
+
