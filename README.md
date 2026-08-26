@@ -4,14 +4,22 @@
 
 A customizable combat log, floatie message system, and taunt pack framework.
 
-QuasiLog completely replaces the in-game combat log with a much improved one. The data
-presented is clear, it shows the to-hit % of your attacks, enemy statuses are logged, and you
-can **resize, reposition, and scale** it to fit your setup. All text in the log is fully
-customizable and can be saved as styles — four ship with the mod to start from. The window
-auto-hides when you open in-game menus, so it should feel natural with the game.
-
-It reads the game's own log, so other log mods (More Combat Info) still work alongside it, and
-it shows up in MCM if you use it. All preferences are saved to `.json` files.
+QuasiLog completely replaces the in-game combat log with a much 
+improved one. It show's the to-hit %, # of attacks, enemy 
+statuses, etc.  You can resize, reposition, and scale to fit your 
+setup. Just press L to toggle it anytime. K cycles through menus. 
+All output in the log is fully customizable, and you can be saved 
+as styles. It's easy to change your log to suit how you 
+want it to look and what data you want to show. QuasiLog also has a 
+Taunt system, the player and other units in the game will speak
+one-liners inspired by 80s/90s action movies. These are displayed 
+with a new floatie system above the units, which will show taunts
+but also combat info, dmg of attack, wounds etc. One of my goals 
+of this mod was to give your mercs and the enemy more personality, 
+and to that end you can rename your mercs! You can also give enemy 
+units randomly assigned names as well. All taunts, names etc. are 
+all txt files so you can edit them to be what you want.
+Everything in my mod is customizable.
 
 ## Download
 
