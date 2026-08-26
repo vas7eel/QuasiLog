@@ -5,10 +5,10 @@
 A customizable combat log, floatie message system, and taunt pack framework.
 
 QuasiLog completely replaces the in-game combat log with a much 
-improved one. It show's the to-hit %, # of attacks, enemy 
+improved one. It shows the to-hit %, # of attacks, enemy 
 statuses, etc.  You can resize, reposition, and scale to fit your 
 setup. Just press L to toggle it anytime. K cycles through menus. 
-All output in the log is fully customizable, and you can be saved 
+All output in the log is fully customizable, and they can be saved 
 as styles. It's easy to change your log to suit how you 
 want it to look and what data you want to show. QuasiLog also has a 
 Taunt system, the player and other units in the game will speak
