@@ -1,6 +1,6 @@
 # QuasiLog
 
-**A Quasimorph mod by Vas7eel** · v0.9.3
+**A Quasimorph mod by Vas7eel** · v0.9.4
 
 A customizable combat log, floatie message system, and taunt pack framework.
 
@@ -127,6 +127,16 @@ dies — in the log, the floaties and the stats. Or switch it to personal names 
 from a `UnitNames.txt` you can edit yourself. Human enemies for now.
 
 ## Changelog
+
+### v0.9.4
+
+- **NEW:** "Show Uber dmg Details" (PREFS > Behavior) — display a detailed breakdown of each attack
+  showing where the damage came from:
+  `[dmg] 18 = base 12 (1 hit, 10-18 each) + 8 crit = 20 - 2 resist (10%)`
+- **NEW:** hover that same line for a tooltip that details buffs and nerfs that affected the hit
+  — the perk, the fire mode, the ammo etc.
+- **fix:** the scroll wheel released LOCK from anywhere on screen, but no longer
+- **fix:** the damages bill went blank past 999,999 — now rack up a highscore
 
 ### v0.9.3
 

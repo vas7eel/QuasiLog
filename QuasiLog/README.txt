@@ -1,19 +1,27 @@
-═══════════════════════════════════════════════════════════
-  QUASILOG v0.9.2 - README
+﻿═══════════════════════════════════════════════════════════
+  QUASILOG v0.9.4 - README
   A Quasimorph mod by Vas7eel
 ═══════════════════════════════════════════════════════════
 
 OVERVIEW
 --------
-QuasiLog replaces Quasimorph's combat log with a window you
-actually control. The native log is either a tiny opaque box
-of a few lines or a panel that eats half the screen, with
-nothing in between. QuasiLog shows the same entries the game
-generates — with their native coloring — in an overlay you
-can move, resize, make transparent, scroll back through, and
-scale the text of. It reads the game's own combat log, so it
-works alongside other combat-log mods (e.g. More Combat Info,
-whose to-hit % lines show up here too).
+
+QuasiLog completely replaces the in-game combat log with a much 
+improved one. It show's the to-hit %, # of attacks, enemy 
+statuses, etc.  You can resize, reposition, and scale to fit your 
+setup. Just press L to toggle it anytime. K cycles through menus. 
+All output in the log is fully customizable, and you can be saved 
+as styles. It's easy to change your log to suit how you 
+want it to look and what data you want to show. QuasiLog also has a 
+Taunt system, the player and other units in the game will speak
+one-liners inspired by 80s/90s action movies. These are displayed 
+with a new floatie system above the units, which will show taunts
+but also combat info, dmg of attack, wounds etc. One of my goals 
+of this mod was to give your mercs and the enemy more personality, 
+and to that end you can rename your mercs! You can also give enemy 
+units randomly assigned names as well. All taunts, names etc. are 
+all txt files so you can edit them to be what you want.
+Everything in my mod is customizable.
 
 
 LICENSE
@@ -56,6 +64,14 @@ PREFS
 
 CHANGELOG
 ---------
+ v0.9.4
+    - NEW: "Show Uber dmg Details" (PREFS > Behavior) — Display a detailed 
+      breakdown of each attack showing where the damage came from:
+      "[dmg] 18 = base 12 (1 hit, 10-18 each) + 8 crit = 20 - 2 resist (10%)"
+    - NEW: hover that same line for a tooltip that details buffs and nerfs
+      that affected the hit — the perk, the fire mode, the ammo etc. 
+    - fix: the scroll wheel released LOCK from anywhere on screen, but no longer
+    - fix: the damages bill went blank past 999,999 - Now rack up a highscore
  v0.9.3
     - NEW: identical enemies can now be told apart. "Male Worker A" hits,
       "Female Worker B" dies etc. the same name follows that enemy all
